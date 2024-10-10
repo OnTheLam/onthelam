@@ -24,6 +24,7 @@ An AI consultancy committed to empowering small and medium-sized businesses thro
 AI-powered life and business solutions.
 
 ### 🌱 I’m currently learning
+  - Full Stack Web Development (Self-taught)
   - Google Project Management Certification
   - Google Advanced Data Analytics Certification
     
